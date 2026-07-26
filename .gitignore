@@ -1,0 +1,4 @@
+pneumonia_model.keras
+*.keras
+__pycache__/
+*.pyc
