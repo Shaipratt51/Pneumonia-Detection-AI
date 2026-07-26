@@ -112,17 +112,19 @@ Pneumonia-Detection-AI/
 ├── x_ray.ipynb
 ├── .gitignore
 │
+├── assets/
+│   ├── dashboard.png
+│   ├── prediction.png
+│   ├── analytics.png
+│   └── report.png
+│
 ├── utils/
 │   ├── helpers.py
 │   ├── preprocess.py
 │   ├── predict.py
 │   └── report.py
 │
-├── assets/
-│   ├── dashboard.png
-│   └── prediction.png
-│
-└── pneumonia_model.keras
+└── LICENSE
 ```
 
 > If `pneumonia_model.keras` is not included, download it separately and place it in the project root.
