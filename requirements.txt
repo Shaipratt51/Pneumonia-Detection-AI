@@ -1,9 +1,10 @@
-streamlit==1.60.0
-plotly==6.2.0
-tensorflow
+streamlit
+plotly
+tensorflow==2.17.1
 numpy
 pandas
 Pillow
 matplotlib
 scikit-learn
 opencv-python-headless
+reportlab
